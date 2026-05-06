@@ -53,7 +53,7 @@ To predict whether a customer will churn (leave the service) based on various fe
 
 ### 5. Evaluation
 
-* Accuracy ≈ 80%
+* Accuracy ≈ 81%
 * Confusion Matrix
 * Precision, Recall, F1-score
 
@@ -74,15 +74,6 @@ To predict whether a customer will churn (leave the service) based on various fe
 * Scikit-learn
 * TensorFlow / Keras
 * Matplotlib
-
----
-
-## 🚀 Future Improvements
-
-* Handle class imbalance using class weights or SMOTE
-* Try other models (Random Forest, XGBoost)
-* Hyperparameter tuning
-* Deploy model using a web app
 
 ---
 
